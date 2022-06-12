@@ -1,4 +1,3 @@
-# Code  by: Alejandro A. Perez Pabon
 NameAccount = input("Please enter the name of your account: ")
 StartingBalance = float(input("Please enter the starting balance: "))
 Balance = StartingBalance
